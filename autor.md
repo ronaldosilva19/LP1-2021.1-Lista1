@@ -2,9 +2,9 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: * Jose Ronaldo da Silva*
-- Email: * ronaldo.silva.113@ufrn.edu.br*
-- Turma: * T02*
+- Nome: *\ Jose Ronaldo da Silva*
+- Email: *\ ronaldo.silva.113@ufrn.edu.br*
+- Turma: *\ T02*
 
 # Questões Finalizadas
 
